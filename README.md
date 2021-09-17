@@ -24,7 +24,7 @@
 <img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/nolan/40/twitter.png"/>
 </a>
 
-<a href="https://www.instagram.com/husain3012/">
+<a href="https://www.instagram.com/_husain_3012/">
 <img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
 </a>
 
@@ -32,11 +32,11 @@
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
 </a> -->
 
-<a href="https://discord.com/channels/@me/689083638385606677">
+<a href="https://discord.com/channels/users/689083638385606677">
 <img border="0" alt="husain#7505" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
 </a>
 
-<a href="mailto:hskolhe666@gmail.com">
+<a href="mailto:husainshahidrao@gmail.com">
 <img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
