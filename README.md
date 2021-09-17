@@ -20,11 +20,11 @@
 <img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
-<a href="https://twitter.com/HrugVed_">
+<a href="https://twitter.com/hsr3012">
 <img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/nolan/40/twitter.png"/>
 </a>
 
-<a href="https://www.instagram.com/_hrugved_/">
+<a href="https://www.instagram.com/husain3012/">
 <img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
 </a>
 
