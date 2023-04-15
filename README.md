@@ -1,141 +1,104 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Husain😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-- 👋🏻 Hiya, I’m <a href="https://husain3012.github.io/mysite/">Husain</a> ✌🏻 <br/> 
-- 👀 I’m into Full Stack, ML/AI and DSA (basically everything) 😄<br/>
-- 🌱 Always trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
-- 👨🏻‍💻 Currently exploring Machine Learning📱</br>
-- 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
-- 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
-
-<!-----Social Accounts------>
+<h1 align="center">
+Hello, I Am Husain!<br>
+</h1>
 
 <p align="center">
-<a href="https://husain3012.github.io/mysite/">
-<img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
-</a>
 
-<a href="https://www.linkedin.com/in/husain3012/">
-<img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
 
-<a href="https://twitter.com/hsr3012">
-<img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/nolan/40/twitter.png"/>
-</a>
+ </p>
 
-<a href="https://www.instagram.com/_husain_3012/">
-<img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
-</a>
-
-<!-- <a href="https://t.me/Dev1ce_06">
-<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
-</a> -->
-
-<a href="https://discord.com/channels/users/689083638385606677">
-<img border="0" alt="husain#7505" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-</a>
-
-<a href="mailto:husainshahidrao@gmail.com">
-<img border="0" alt="Husain Shahid Rao" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
-</a>
-</p>
-
-<!--  <a href="https://tawk.to/chat/61001d75d6e7610a49ad3be2/1fbk764uk">
-<img border="0" alt="yawk.to" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-</a> -->
- 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
-<!-----Contribution figures------>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
-
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=husain3012&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
-<!------------ Streak Display -------------->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
-
-<div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husain3012&theme=dark" alt="HrugVed" /></p>
-</div>
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+<hr/>
 
 
-<!-------------Projects---------------->
 
-<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
+<img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
-<a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=TRex-game-using-facial-recognition&theme=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/Discbot_ai">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Discbot_ai&theme=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-Blurring-and-Deblurring&theme=dark" />
-</a>
-
-<a href="https://github.com/hrugved06/ML-DL-Projects">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=ML-DL-Projects&theme=dark" />
-</a>
+### I am a web developer
 
 
-</br>
-<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff"> -->
 
-<!--------------- Hrugved's Contribution Graph ---------------->
+- 👨‍🏭 Pursuing **B-Tech at JMI, New Delhi** <br>
+- 🏫 Creating things out of code <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
+🕵 Take a look at my repositories and let's get in touch!<br>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=husain3012&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
- 
- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
- 
- </br>
- 
-<!------------------- Languages used by me ----------------------->
+### Connect with me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used in the Project:
+<hr/>
+
+<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
 
-<a href="https://www.python.org/">
-<img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
-</a>
-
-<a href="https://jupyter.org/">
-<img border="0" alt="Juyter" src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png"/>
-</a>
-
-<a href="https://html.com/#What_is_HTML">
-<img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/CSS">
-<img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</a>
-
-<a href="https://www.javascript.com/">
-<img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-</a>
-
-<a href="https://isocpp.org/">
-<img  border="0" alt="CPP" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</a>
 
 
-</br>
-<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
+<br>
 
-<!-- Credits: [Hrugved Kolhe](https://github.com/hrugved06) -->
+### Languages & Technologies
 
-<!-- Last edited on: 13/09/2021 -->
 
----
+<hr/>
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
+<img align="left" alt="Mysql" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<img align="left" alt="SCSS" width="40px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+<img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" />
+<img align="left" alt="Jquery" width="40px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
+
+<br><br>
+
+### Tools & Softwares
+
+<hr/>
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub Desktop" width="40px" src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitBash" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="Wordpress" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" />
+<img align="left" alt="Orcle 10g" width="40px" src="https://i.pinimg.com/236x/e3/b7/9d/e3b79dd42a03cbb6f658ae3efc5e3d5c--oracle-g-bangs.jpg" />
+<img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
+<img align="left" alt="Pycharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
+<img align="left" alt="Ubuntu" width="40px" src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" />
+<br><br><br>
+
+### Learning Sources
+
+<hr/>
+
+<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
+<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
+<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
+<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
+<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
+<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
+<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
+
+<br><br><br><br>
+
+### Github Stats:
+
+<hr/>
+<br>
+
+<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=husain3012&layout=compact&theme=blue-green" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Turwash&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
+
+![](https://activity-graph.herokuapp.com/graph?username=husain3012&theme=github)
+
+
+
+![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif)
+
+
