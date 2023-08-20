@@ -12,9 +12,6 @@
 
 </p>
   
-
-
-
 ## 🌐 Stalk me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/husain3012)
@@ -22,10 +19,10 @@
 [![Hashnode](https://img.shields.io/badge/hashnode-2563EB?logo=hashnode&logoColor=white?logo=medium&logoColor=white)](https://husain3012.hashnode.dev/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?&logo=codepen&logoColor=white)](https://codepen.io/husain3012)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_husain_3012)
-[![Leetcode](https://img.shields.io/badge/Leetcode-1A1A1A?logo=leetcode&logoColor=e29d20)](https://codepen.io/husain3012)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hsr3012kal6b0b) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-1A1A1A?logo=leetcode&logoColor=e29d20)](https://leetcode.com/husain3012/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/husain3012)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hsr3012) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCuy67Olbw5iOSiCt1f3BoXg)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hsr3012)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@husainshahidrao1926)
 
 ## 💻 Tech Toolkit
 
