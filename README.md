@@ -1,104 +1,54 @@
-![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
+# 💫 About Me
 
-
-<h1 align="center">
-Hello, I Am Husain!<br>
-</h1>
+🏫 Pursuing Bachelor's in Computer Science Engineering<br>👨‍🏭 Always building something by hitting keys<br>💓 Loves contributing to Open Source<br>🌱 Currently learning AI<br>📔 Ask me about the web and the technologies around it<br>🤪 Fun fact about me, I can shuffle cards really well
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
-
- </p>
-
-<hr/>
-
+</p>
+  
+[![visiter count](https://visitcount.itsvg.in/api?id=husain3012&label=Visitors&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
-<img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+## 🌐 Stalk me at
 
-### I am a web developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/husain3012)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16137537)
+[![Hashnode](https://img.shields.io/badge/hashnode-2563EB?logo=hashnode&logoColor=white?logo=medium&logoColor=white)](https://husain3012.hashnode.dev/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?&logo=codepen&logoColor=white)](https://codepen.io/husain3012)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_husain_3012)
+[![Leetcode](https://img.shields.io/badge/Leetcode-1A1A1A?logo=leetcode&logoColor=e29d20)](https://codepen.io/husain3012)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hsr3012kal6b0b) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/husain3012)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hsr3012) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCuy67Olbw5iOSiCt1f3BoXg)
 
+## 💻 Tech Toolkit
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-- 👨‍🏭 Pursuing **B-Tech at JMI, New Delhi** <br>
-- 🏫 Creating things out of code <br>
+## 📊 Github flex
 
-🕵 Take a look at my repositories and let's get in touch!<br>
+![stats](https://github-readme-stats.vercel.app/api?username=husain3012&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=husain3012&theme=dark&hide_border=false)<br/>
+![top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=husain3012&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Connect with me
+## 🏆 Trophies (they are useless)
 
-<hr/>
+![trophies](https://github-profile-trophy.vercel.app/?username=husain3012&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
+## 🔝 Top Contributed Repo
 
+![top repo stats](https://github-contributor-stats.vercel.app/api?username=husain3012&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 💰 You can help me by Donating
 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/husainshahidrao)
 
-<br>
-
-### Languages & Technologies
-
-
-<hr/>
-
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
-<img align="left" alt="Mysql" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-<img align="left" alt="SCSS" width="40px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
-<img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" />
-<img align="left" alt="Jquery" width="40px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
-
-<br><br>
-
-### Tools & Softwares
-
-<hr/>
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub Desktop" width="40px" src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitBash" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="Wordpress" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" />
-<img align="left" alt="Orcle 10g" width="40px" src="https://i.pinimg.com/236x/e3/b7/9d/e3b79dd42a03cbb6f658ae3efc5e3d5c--oracle-g-bangs.jpg" />
-<img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
-<img align="left" alt="Pycharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
-<img align="left" alt="Ubuntu" width="40px" src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" />
-<br><br><br>
-
-### Learning Sources
-
-<hr/>
-
-<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
-<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
-<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
-<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
-<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
-<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
-<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
-
-<br><br><br><br>
-
-### Github Stats:
-
-<hr/>
-<br>
-
-<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=husain3012&layout=compact&theme=blue-green" />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=husain3012&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
-
-![](https://activity-graph.herokuapp.com/graph?username=husain3012&theme=github)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+## 👩‍⚕️ A meme a day keeps you healthy
 
-![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif)
-
-
+<p align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</p>
