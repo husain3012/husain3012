@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🏫 Pursuing Bachelor's in Computer Science Engineering 
+🏫 Pursuing Bachelor's in Computer Science Engineering  
 👨‍🏭 Always building something by hitting keys  
 💓 Loves contributing to Open Source  
 🌱 Currently learning AI  
