@@ -1,13 +1,18 @@
 # 💫 About Me
 
-🏫 Pursuing Bachelor's in Computer Science Engineering<br>👨‍🏭 Always building something by hitting keys<br>💓 Loves contributing to Open Source<br>🌱 Currently learning AI<br>📔 Ask me about the web and the technologies around it<br>🤪 Fun fact about me, I can shuffle cards really well
+🏫 Pursuing Bachelor's in Computer Science Engineering 
+👨‍🏭 Always building something by hitting keys  
+💓 Loves contributing to Open Source  
+🌱 Currently learning AI  
+📔 Ask me about the web and the technologies around it  
+🤪 Fun fact about me, I can shuffle cards really well
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </p>
   
-[![visiter count](https://visitcount.itsvg.in/api?id=husain3012&label=Visitors&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Stalk me at
@@ -28,27 +33,25 @@
 
 ## 📊 Github flex
 
-![stats](https://github-readme-stats.vercel.app/api?username=husain3012&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=husain3012&theme=dark&hide_border=false)<br/>
-![top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=husain3012&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![visiter count](https://visitcount.itsvg.in/api?id=husain3012&label=Visitors&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+![stats](https://github-readme-stats.vercel.app/api?username=husain3012&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=husain3012&theme=dark&hide_border=false)  
+![top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=husain3012&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![top repo stats](https://github-contributor-stats.vercel.app/api?username=husain3012&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🏆 Trophies (they are useless)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=husain3012&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🔝 Top Contributed Repo
-
-![top repo stats](https://github-contributor-stats.vercel.app/api?username=husain3012&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 💰 You can help me by Donating
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/husainshahidrao)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ## 👩‍⚕️ A meme a day keeps you healthy
 
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
