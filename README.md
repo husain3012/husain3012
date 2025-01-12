@@ -1,10 +1,8 @@
 # 💫 About Me
 
-🏫 Pursuing Bachelor's in Computer Science Engineering  
-👨‍🏭 Always building something by hitting keys  
+👨‍💻 Working as SDE at HSBC  
 💓 Loves contributing to Open Source  
-🌱 Currently learning AI  
-📔 Ask me about the web and the technologies around it  
+🌱 Currently exploring AI  
 🤪 Fun fact about me, I can shuffle cards really well
 
 <p align="center">
